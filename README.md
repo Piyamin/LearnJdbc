@@ -1,0 +1,2 @@
+# LearnJdbc
+JPA and jdbc
